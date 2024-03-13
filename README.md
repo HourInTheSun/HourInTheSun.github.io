@@ -1,2 +1,2 @@
 # HourInTheSun.github.io
-[IPTV测试](\CC_CNTV.m3u)
+[LATEST IPTV](\CC_CNTV.m3u)
