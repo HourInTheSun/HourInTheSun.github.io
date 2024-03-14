@@ -1,2 +1,2 @@
-# HourInTheSun.github.io
-[LATEST IPTV](\CC_CNTV.m3u)
+# IPTV live source
+support tv and radio live stream.
