@@ -8,3 +8,8 @@ Live streaming of TV and radio broadcasts for personal use, updated from time to
 
 
 It can be played with third-party players by adding subscription links or manually importing m3u8 lists.
+
+#### References
+
+1. Data Sources：[fanmingming](https://github.com/fanmingming/live)，[Moexin](https://github.com/Moexin/IPTV)
+2. Search Engine：[IPTV Link Search](https://www.foodieguide.com/iptvsearch/)
